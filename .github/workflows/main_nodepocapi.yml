@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'nodepocapi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F534637FFF042B58F7B48DDE2092230 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A06688D83635467B8A7F0C661376DFFC }}
           package: .
